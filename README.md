@@ -22,7 +22,7 @@ type `mvn clean test` command to run features. With this command it will invoke 
 
             
       $ mkdir aut-tests
-          git clone https://github.com/jembi/auto-test-cucumber-framework.git
+          git clone https://github.com/
           mvn clean test
 
 - To run features on specific browser use, `mvn test "-Dbrowser=browser_name"`
